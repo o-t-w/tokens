@@ -1,0 +1,97 @@
+{
+    "colors": {
+        "$type": "color",
+    "primary": {
+        "$value": "#02303a"
+    },
+    "secondary": {
+        "$value": "#3cafc6"
+    },
+    "secondary-light": {
+        "$value": "#8acfdc"
+    },
+    "secondary-lighter": {
+        "$value": "#b1dfe8"
+    },
+    "secondary-lightest": {
+        "$value": "#d8eff3"
+    },
+    "link-text": {
+        "$value": "#008299"
+    },
+    "link-text-hover": {
+        "$value": "#35c1e4"
+    },
+    "grey": {
+        "$value": "#afafaf"
+    },
+    "grey-dark": {
+        "$value": "#999999"
+    },
+    "grey-accessible": {
+        "$value": "#757575"
+    },
+    "grey-darker": {
+        "$value": "#686868"
+    },
+    "grey-darkest": {
+        "$value": "#585858"
+    },
+    "grey-light": {
+        "$value": "#d6d9db"
+    },
+    "grey-lighter": {
+        "$value": "#eaeaea"
+    },
+    "grey-lightest": {
+        "$value": "#edeeef"
+    },
+    "off-white": {
+        "$value": "#f7f7f8"
+    },
+    "white": {
+        "$value": "#ffffff"
+    },
+    "blue": {
+        "$value": "#0080ff"
+    },
+    "blue-lighter": {
+        "$value": "#cce6ff"
+    },
+    "green": {
+        "$value": "#00c489"
+    },
+    "green-lighter": {
+        "$value": "#ccf3e7"
+    }
+}, "radius": {
+        "$type": "dimension",
+    "radius-small": {
+        "$value": "3px"
+    },
+    "radius-large": {
+        "$value": "8px"
+    }
+},  "fontWeight":{
+        "$type": "fontWeight",
+    "font-weight-normal": {
+        "$value": "400",
+        "$type": "fontWeight"
+    },
+    "font-weight-bold": {
+        "$value": "500",
+        "$type": "fontWeight"
+    }
+}, 
+"font-family": {
+        "$type": "fontFamily",
+    "brand-font": {
+        "$value": "Lato",
+        "$type": "fontFamily"
+    },
+    "monospace": {
+        "$value": ["Inconsolata", "Monaco", "Courier New", "monospace"],
+        "$type": "fontFamily"
+    }
+}
+}
