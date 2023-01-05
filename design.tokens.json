@@ -75,23 +75,19 @@
 },  "fontWeight":{
         "$type": "fontWeight",
     "font-weight-normal": {
-        "$value": "400",
-        "$type": "fontWeight"
+        "$value": "400"
     },
     "font-weight-bold": {
-        "$value": "500",
-        "$type": "fontWeight"
+        "$value": "500"
     }
 }, 
 "font-family": {
         "$type": "fontFamily",
     "brand-font": {
-        "$value": "Lato",
-        "$type": "fontFamily"
+        "$value": "Lato"
     },
     "monospace": {
-        "$value": ["Inconsolata", "Monaco", "Courier New", "monospace"],
-        "$type": "fontFamily"
+        "$value": ["Inconsolata", "Monaco", "Courier New", "monospace"]
     }
 }
 }
