@@ -38,6 +38,7 @@ export const design = {
 	'spacing-0': '0px',
 	'spacing-1': '4px',
 	'spacing-10': '40px',
+	'spacing-12': '48px',
 	'spacing-2': '8px',
 	'spacing-3': '12px',
 	'spacing-4': '16px',
