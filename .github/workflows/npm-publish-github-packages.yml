@@ -6,7 +6,7 @@ name: Package
 # Only trigger, when the build workflow succeeded
 on:
   workflow_run:
-    workflows: ["tranform"]
+    workflows: ["transform"]
     types:
       - completed
 
