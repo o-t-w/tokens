@@ -1,7 +1,7 @@
 {
     "colors": {
         "$type": "color",
-        "$description": "test",
+        "$description": "test test test",
     "primary": {
         "$value": "#02303a"
     },
