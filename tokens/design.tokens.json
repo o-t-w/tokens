@@ -29,7 +29,8 @@
         "$value": "#999999"
     },
     "grey-accessible": {
-        "$value": "#757575"
+        "$value": "#757575",
+        "$description": "This is the lightest shade of grey that is accessible. Do not use any lighter color for text"
     },
     "grey-darker": {
         "$value": "#686868"
@@ -47,22 +48,45 @@
         "$value": "#edeeef"
     },
     "off-white": {
-        "$value": "#f7f7f8"
+        "$value": "#f7f7f8",
+        "$description": "Used as a background-color."
     },
     "white": {
         "$value": "#ffffff"
     },
     "blue": {
-        "$value": "#0080ff"
+        "$value": "#0080ff",
+        "$description": "Blue is used for build A in the comparison view."
     },
     "blue-lighter": {
-        "$value": "#cce6ff"
+        "$value": "#cce6ff",
+        "$description": "Blue lighter is used for build A in the comparison view."
     },
     "green": {
-        "$value": "#00c489"
+        "$value": "#00c489",
+        "$description": "Green is used for build B in the comparison view."
     },
     "green-lighter": {
-        "$value": "#ccf3e7"
+        "$value": "#ccf3e7",
+        "$description": "Green lighter is used for build B in the comparison view."
+    },
+    "skipped": {
+        "$value": "#6040dd"
+    },
+    "red": {
+        "$value": "#DC4A2D",
+        "$description": "Red is used for build failure and warnings. It looks ugly in charts."
+    },
+    "red-lighter": {
+        "$value": "#fcedeb",
+        "$description": "Used as a background-color."
+    },
+    "chart-red": {
+        "$value": "#fc461e",
+        "$description": "Used to denote failure in charts. Should not be used as a text color."
+    },
+    "success": {
+        "$value": "#19aa5d"
     }
 }, 
 "spacing": {
@@ -102,6 +126,10 @@
     }
 },  "fontWeight":{
         "$type": "fontWeight",
+    "light": {
+        "$value": "300",
+        "$description": "Only used for very large text."
+    },
     "normal": {
         "$value": "400"
     },

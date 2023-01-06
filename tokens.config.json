@@ -1,0 +1,22 @@
+{
+    "transforms": [
+      {
+        "from": "tokens",
+        "to": [
+          {
+            "as": "scss",
+            "to": "destination/scss"
+          },
+          {
+            "as": "css",
+            "to": "destination/css"
+          },
+          {
+            "as": "mjs",
+            "to": "destination/js"
+          }      
+        ]
+      }
+    ]
+  }
+  
