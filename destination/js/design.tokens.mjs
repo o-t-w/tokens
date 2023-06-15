@@ -15,7 +15,7 @@ export const design = {
 	'colors-link-text': '#008299',
 	'colors-link-text-hover': '#35c1e4',
 	'colors-off-white': '#f7f7f8',
-	'colors-primary': '#02303a',
+	'colors-primary': '#0B80FF',
 	'colors-red': '#DC4A2D',
 	'colors-red-lighter': '#fcedeb',
 	'colors-secondary': '#3cafc6',
