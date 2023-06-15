@@ -6,7 +6,7 @@
         "$value": "#0B80FF"
     },
     "secondary": {
-        "$value": "#3cafc6"
+        "$value": "#F15DAF"
     },
     "secondary-light": {
         "$value": "#8acfdc"
@@ -144,7 +144,7 @@
 "font-family": {
         "$type": "fontFamily",
     "brand": {
-        "$value": "Lato"
+        "$value": "Inter"
     },
     "monospace": {
         "$value": ["Inconsolata", "Monaco", "Courier New", "monospace"]
